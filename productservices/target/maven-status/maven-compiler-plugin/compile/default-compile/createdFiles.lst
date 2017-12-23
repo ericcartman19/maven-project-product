@@ -1,0 +1,5 @@
+com/valoyes/product/bo/ProductBO.class
+com/valoyes/product/dto/Product.class
+com/valoyes/product/dao/ProductDAOImpl.class
+com/valoyes/product/bo/ProductBOImpl.class
+com/valoyes/product/dao/ProductDAO.class
